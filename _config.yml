@@ -1,8 +1,8 @@
 title: tinhkyaw@github
 description: Pearls and collectibles on hacking...
-google_analytics: 
+google_analytics:
 show_downloads: true
-theme: jekyll-theme-hacker
+theme: pages-themes/hacker@v0.2.0
 
 gems:
   - jekyll-mentions
