@@ -8,4 +8,4 @@ gems:
   - jekyll-mentions
 
 github_username: tinhkyaw
-baseurl: "/tinhkyaw.github.io"
+repository_name: "tinhkyaw.github.io"
